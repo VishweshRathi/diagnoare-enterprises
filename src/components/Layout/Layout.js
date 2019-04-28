@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Aux'
 import * as classes from './Layout.css'
-import logo from '../../../public/main_logo.jpg'
+import logo from '../../../assets/images/main_logo.jpg'
 class Layout extends Component {
     render () {
         return (
